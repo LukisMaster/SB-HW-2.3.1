@@ -51,7 +51,6 @@ func describeRun(runningWorkout rW: Run) {
 }
 func describeSwim(swimmingWorkout sW: Swim) {
     print("Плаванье на дистанцию - \(sW.distance), время - \(sW.time), стиль -  \(sW.stroke)")
-
 }
 
 /*:
